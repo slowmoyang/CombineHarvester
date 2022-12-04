@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 import CombineHarvester.CombineTools.ch as ch
 import CombineHarvester.CombineTools.systematics.Hhh as HhhSysts

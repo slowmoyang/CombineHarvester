@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 # Example usage: updateBinBuildFile.py bin/BuildFile.xml bin/*.cpp
 import os

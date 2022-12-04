@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 import CombineHarvester.CombineTools.plotting as plot
 import ROOT
 import argparse
